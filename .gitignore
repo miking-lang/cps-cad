@@ -1,0 +1,6 @@
+build
+untracked
+__pycache__
+*.FCStd1
+.vscore
+.DS_Store
